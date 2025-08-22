@@ -27,7 +27,7 @@
 <p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kanishka-maurya/kanishka-maurya/main/network.gif" width="200"> 
 
--  **Sophomore** at [MNNIT ALLAHABAD](http://www.mnnit.ac.in/)
+-  **Pre-Final Year** at [MNNIT ALLAHABAD](http://www.mnnit.ac.in/)
 
 -  Passionate about **Data Science**
 
